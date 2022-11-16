@@ -1,4 +1,4 @@
-#Fri Nov 11 17:30:50 COT 2022
-base.0=C\:\\Users\\USER\\Desktop\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Nov 15 20:11:55 COT 2022
+base.0=C\:\\Users\\USER\\Downloads\\DESARROLLO DE APLICACIONES MOVILES CON FLUTTER\\CURSO OFICIAL\\UD 2\\SESION 5\\sesion_5_principal\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

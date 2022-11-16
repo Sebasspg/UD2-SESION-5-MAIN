@@ -2,6 +2,7 @@
 import 'package:flutter_application_1/pages/sesion4/home4.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/pages/sesion5/home5.dart';
+import 'package:flutter_application_1/pages/sesion6/screen/home6screen.dart';
 
 import 'pages/sesion3/inicio.dart';
 
@@ -46,6 +47,15 @@ class Menu extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) => const Home5Page()),
+                );
+              },
+            ),
+            buttonWidget(
+              name: 'Sesion 6',
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const Home6Screen()),
                 );
               },
             ),
