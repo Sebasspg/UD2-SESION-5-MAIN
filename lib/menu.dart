@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/pages/sesion5/home5.dart';
 import 'package:flutter_application_1/pages/sesion6/screen/home6screen.dart';
 import 'package:flutter_application_1/pages/sesion7/screens/scrolltiktok.dart';
+import 'package:flutter_application_1/pages/sesion8/screens/menupage.dart';
 
 import 'pages/sesion3/inicio.dart';
 
@@ -66,6 +67,15 @@ class Menu extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) => const ScrollTiktokPage()),
+                );
+              },
+            ),
+            buttonWidget(
+              name: 'Sesion 8',
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const MenuPage()),
                 );
               },
             ),

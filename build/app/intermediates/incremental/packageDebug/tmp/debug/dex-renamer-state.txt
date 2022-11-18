@@ -1,4 +1,4 @@
-#Wed Nov 16 17:41:26 COT 2022
-base.0=C\:\\Users\\USER\\Downloads\\DESARROLLO DE APLICACIONES MOVILES CON FLUTTER\\CURSO OFICIAL\\UD 2\\SESION 6\\sesion_6_principal\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Nov 18 10:30:30 COT 2022
+base.0=C\:\\Users\\USER\\Downloads\\DESARROLLO DE APLICACIONES MOVILES CON FLUTTER\\CURSO OFICIAL\\UD 2\\SESION 7\\sesion_7_principal\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
